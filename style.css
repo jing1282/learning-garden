@@ -4,3 +4,5 @@
 
 /* 简洁首页：以学习意图为中心 */
 .garden-heading h1{font-size:clamp(30px,4vw,49px);line-height:1.5;letter-spacing:0}.garden-hero{padding:10px 0 26px}.writing-intent{max-width:660px;color:var(--muted);font-size:14px;line-height:1.9;margin:0 0 14px}.garden-intro{margin-bottom:14px}.theme-art{height:175px}.mini-network{margin-top:30px;transform:scale(.8);transform-origin:center top}.entry-card{background:transparent;border:0;border-top:1px solid var(--line);border-radius:0;padding:22px 0}.entry-card:hover{border-color:var(--green)}.entry-card h3{font-size:20px}.garden-bottom{margin-top:35px}.garden-hero .eyebrow{letter-spacing:2px}.theme-card:hover{box-shadow:none}.future-plot{background:transparent}@media(max-width:560px){.garden-heading h1{font-size:29px}.theme-art{height:170px}}
+
+.writing-intent h2{font-size:16px;font-weight:500;color:var(--ink);margin:22px 0 8px}.writing-intent p{font-size:14px;line-height:1.9;margin:8px 0}
